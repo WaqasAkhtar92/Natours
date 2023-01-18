@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "natours api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaqasAkhtar92/Natours.git"
+  },
+  "author": "Waqas Akhtar (jonas schemedtman)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaqasAkhtar92/Natours/issues"
+  },
+  "homepage": "https://github.com/WaqasAkhtar92/Natours#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
